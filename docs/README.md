@@ -1,1 +1,1 @@
-# nalanda.cloud for Kagyur Tengyur
+# nalanda.cloud
